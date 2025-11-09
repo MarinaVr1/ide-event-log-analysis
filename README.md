@@ -17,8 +17,8 @@ The goal is to uncover differences in usage duration patterns, interpret them in
 ## Conclusion
 
 The results strongly suggest that:
-> **Manual openings correspond to brief, intentional user interactions**,  
-> while **automatic openings capture extended, system-driven processes.**
+> **Manual openings generally reflect shorter, focused user actions,**  
+> **whereas automatic openings tend to persist longer as part of ongoing or background IDE activity.**
 
 These findings are consistent across all data-cleaning strategies, reinforcing confidence in the observed behavioral distinction.
 
