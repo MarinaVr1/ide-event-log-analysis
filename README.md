@@ -11,7 +11,7 @@ This project analyzes **tool window usage behavior in Integrated Development Env
 
 The goal is to uncover differences in usage duration patterns, interpret them in the context of user interaction, and evaluate the robustness of findings across multiple data-cleaning strategies.
 
-**Full Report (PDF):** [Download here](./https://github.com/MarinaVr1/ide-event-log-analysis/blob/main/projectDescription.pdf)  
+**Full Report (PDF):** [Download here](https://github.com/MarinaVr1/ide-event-log-analysis/blob/main/projectDescription.pdf)  
 
 
 ## Conclusion
